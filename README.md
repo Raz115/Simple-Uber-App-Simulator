@@ -1,6 +1,6 @@
 # Simple-Uber-App-Simulator
 
-Description
+Description:
 This is a project I worked on at TMU in my cps 209 class. This project simulates a simplified Uber-like app that manages users, drivers, and requests for rides and deliveries. 
 
 Features Implemented:
